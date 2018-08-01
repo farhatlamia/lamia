@@ -1,2 +1,4 @@
 hello cs16 A
 shgisbfiu
+list a
+nduihfi r
